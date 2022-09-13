@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function (){
-    alert('Inserta un macaco\nen mi chat de wstp');
+    alert('Sabía que me perdonarías 😍\nI LOVE YOU BBY 💓');
 })
 
 const noBtn = document.querySelector('#noBtn');
