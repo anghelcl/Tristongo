@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function (){
-    alert('Lo sabía 😍\nI LOVE YOU BBY 💓');
+    alert('Lo sabía 😍\nI LOVE YOU BBY 💓\nMandame un mnsj por wstp 😢');
 })
 
 const noBtn = document.querySelector('#noBtn');
