@@ -13,3 +13,5 @@ noBtn.addEventListener('mouseover',function(){
     noBtn.style.setProperty('letf',randomX+'%');
     noBtn.style.setProperty('transform',`translate(-${randomX}%,-${randomY}%)`);
 })
+
+
